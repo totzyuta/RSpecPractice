@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 group :development, :test do
-  gem "rspec", "3.0.0"
-  gem "rspec-rails", "3.0.0"
+  gem "rspec", "3.0.0.rc1"
+  gem "rspec-rails", "3.0.0.rc1"
 end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
